@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007230</identifier>
-   <identifier type="local">atm_068</identifier>
+   <identifier type="local">peopleinbooks_atm_068</identifier>
    <titleInfo>
       <title>Amarot ṭehorot: Maʾamar Yonat elem</title>
       <partName>Leaves 68-69</partName>

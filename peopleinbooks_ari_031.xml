@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007196</identifier>
-   <identifier type="local">ari_031</identifier>
+   <identifier type="local">peopleinbooks_ari_031</identifier>
    <titleInfo>
       <title>Asis Rimonim</title>
       <partName>Leaves 31 verso - 32 recto</partName>

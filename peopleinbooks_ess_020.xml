@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007211</identifier>
-   <identifier type="local">ess_020</identifier>
+   <identifier type="local">peopleinbooks_ess_020</identifier>
    <titleInfo>
       <title>ʻEsʹer sefirot</title>
       <partName>Leaves 20 verso - 21 recto</partName>

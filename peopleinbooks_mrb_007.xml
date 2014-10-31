@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007054</identifier>
-   <identifier type="local">mrb_007</identifier>
+   <identifier type="local">peopleinbooks_mrb_007</identifier>
    <titleInfo>
       <title>Mikveh (ritual bath)</title>
       <partName>Foldout</partName>

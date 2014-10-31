@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007050</identifier>
-   <identifier type="local">shn_000</identifier>
+   <identifier type="local">peopleinbooks_shn_000</identifier>
    <titleInfo>
       <title>Sefer ha-nitsaḥon</title>
       <partName>Volume 1, Title leaf</partName>

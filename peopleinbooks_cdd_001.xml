@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007057</identifier>
-   <identifier type="local">cdd_001</identifier>
+   <identifier type="local">peopleinbooks_cdd_001</identifier>
    <titleInfo>
       <title>Compendio de diferentes materias dignas de se lerem para teras noticias do que ellas contem</title>
       <partName>Title page</partName>

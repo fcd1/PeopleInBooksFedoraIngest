@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007101</identifier>
-   <identifier type="local">lal_038</identifier>
+   <identifier type="local">peopleinbooks_lal_038</identifier>
    <titleInfo>
       <title>Luḥot Alfonso</title>
       <partName>Leaves 38 verso - 39 recto</partName>

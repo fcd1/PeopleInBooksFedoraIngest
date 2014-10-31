@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007100</identifier>
-   <identifier type="local">ige_001</identifier>
+   <identifier type="local">peopleinbooks_ige_001</identifier>
    <titleInfo>
       <title>Igeret: el Simḥah ben Shelomoh babovits</title>
       <partName>First leaf of text</partName>

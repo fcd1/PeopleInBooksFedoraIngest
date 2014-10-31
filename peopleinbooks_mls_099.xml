@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007186</identifier>
-   <identifier type="local">mls_099</identifier>
+   <identifier type="local">peopleinbooks_mls_099</identifier>
    <titleInfo>
       <title>Maḥzor le-shalosh regalim</title>
       <partName>Leaf 288 verso</partName>

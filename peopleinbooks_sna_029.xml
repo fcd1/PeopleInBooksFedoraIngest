@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007065</identifier>
-   <identifier type="local">sna_029</identifier>
+   <identifier type="local">peopleinbooks_sna_029</identifier>
    <titleInfo>
       <title>Sefer naftali</title>
       <partName>Leaf 29 verso</partName>

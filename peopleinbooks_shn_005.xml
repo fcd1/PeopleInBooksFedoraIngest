@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="omeka">omeka_007048</identifier>
-   <identifier type="local">shn_005</identifier>
+   <identifier type="local">peopleinbooks_shn_005</identifier>
    <titleInfo>
       <title>Sefer ha-nitsaḥon</title>
       <partName>Volume 1, loose leaf: Libro della Vittoria</partName>
